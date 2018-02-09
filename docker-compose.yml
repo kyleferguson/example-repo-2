@@ -1,6 +1,6 @@
 version: '2'
 services:
-  app2:
+  app:
     image: httpd
     ports:
       - 8082:80
